@@ -1,0 +1,8 @@
+@objects
+  campoUsuario    id    usuario
+  botaoEntrar     css   .btn
+
+= Main section =
+  botaoEntrar:
+    css background-color is "rgba(38, 166, 154, 1)"
+    below campoUsuario 120 to 130 px
